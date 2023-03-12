@@ -105,6 +105,10 @@ p{
     text-align: left;
 }
 
+.profile-img{
+    border-radius: 50%;
+}
+
 .programmer-icon {
     width: 25%;
     float: left;
